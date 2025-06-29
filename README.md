@@ -103,4 +103,4 @@ Description: Write a CTAS query to create a new table that lists each member and
 ### The Repository
 
 ```bash
-https://github.com/ujjwalbabu0/SQL-P2-Library_management_system
+https://github.com/ujjwalbabu0/SQL-P2-Library_management_system.git
