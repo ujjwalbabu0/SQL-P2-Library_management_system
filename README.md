@@ -5,7 +5,8 @@
 
 Welcome to the **Library Management System project** — an intermediate-level SQL portfolio project designed to demonstrate ability to work with relational databases. This project highlights how to design, manage, and query a library database using SQL, simulating real-world operations like issuing and returning books.
 
-![Uploading Capture.PNG…]()
+![Uploading Library.PNG…]()
+
 
 ---
 
